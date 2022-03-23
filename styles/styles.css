@@ -57,7 +57,6 @@ span .font-pair1b{
   font-family: 'Karla', sans-serif;
 }
 
-
 /* add your css below this line */
 
 .hero-background {
@@ -76,11 +75,11 @@ span .font-pair1b{
 }
 
 .second-section-background {
-  background: url("https://reliablepsd.com/wp-content/themes/reliable/images/blog/bg07.jpg") no-repeat fixed bottom;
+  background: url("https://images.unsplash.com/photo-1597401989360-07ff2c24c8d2") no-repeat fixed bottom;
 }
 
 .third-section-background {
-  background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.unsplash.com/photo-1586764635350-4f88a6a30a52") no-repeat fixed bottom;
 }
 
 .with-background {
@@ -141,15 +140,15 @@ article {
 }
 
 .first-article-container {
-  background-color: #e2b400;
+  background-color: #8FD7E4;
 }
 
 .second-article-container {
-  background-color: #a66746;
+  background-color: #C3BEC0;
 }
 
 .third-article-container {
-  background-color: #a69991;
+  background-color: #F4B023;
 }
 
 footer {
@@ -158,6 +157,19 @@ footer {
   background-color: rgb(0, 0, 0, 0.3);
 }
 
- 
+#pair1-explanation{
+	color:#00478A;
+}
 
+#pair2-explanation{
+	color:#744627;
+}
+
+#pair3-explanation{
+	color:#A70624;
+}
+
+div a{
+	background-color:cadetblue;
+}
 
